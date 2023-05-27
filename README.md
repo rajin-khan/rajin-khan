@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **rajin.khan2001@gmail.com**
 
-- ⚡ Fun fact: **I've been producing music and beats for myself, various projects and clients, and ghost producing on different artists' albums for 5 years.**
+- ⚡ Fun fact: **I've been producing music and mixing professionally for 5 years.**
 
 <p align="left">
 </p>
