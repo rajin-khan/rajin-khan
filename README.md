@@ -22,8 +22,8 @@
 
 <h3 align="left">The STATS:📈</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajin-khan&theme=omni&show_icons=true&locale=en&layout=compact" alt="rajin-khan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajin-khan&layout=donut-vertical&theme=omni&locale=en" alt="rajin-khan"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&theme=omni&show_icons=true&locale=en" alt="rajin-khan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&show_icons=true&theme=omni" alt="rajin-khan" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-khan&theme=omni" alt="rajin-khan"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-khan&theme=omni&locale=en" alt="rajin-khan"/></p>
