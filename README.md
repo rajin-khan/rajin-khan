@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajin-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rajin-khan" /> </p>
 
-- 🔭 I’m currently working on **re-learning old languages**
+- 🔭 I’m currently working on **Mastering Front-End Development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **OOP, Data Structures and Algorithms, Graphic Designing and life as a student in North South University**
 
