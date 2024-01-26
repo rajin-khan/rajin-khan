@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋, I'm Rajin Khan</h1>
 <h3 align="left">A scatterbrained CSE student from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src=https://pixeljeff.tumblr.com/image/711410966655533056>
+<img align="right" alt="Coding" width="400" src=https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/244060921ab77c76-5f/s2048x3072/ae238518f2d1bf3c0b68c97a94ff9ba5f7a8b59c.gifv>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajin-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rajin-khan" /> </p>
 
