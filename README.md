@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **rajin.khan2001@gmail.com**
 
-- ⚡ Fun fact: **I've been producing music and mixing professionally for over 6 years.**
+- ⚡ Fun fact: **I've been freelancing as a graphic designer for over 4 years.**
 
 <p align="left">
 </p>
