@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mastering Full-Stack Web Development**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning about **Design & Analysis of Algorithms**
 
 - 💬 Ask me about **OOP, Data Structures and Algorithms, Graphic Designing and life as a student in North South University**
 
