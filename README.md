@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajin-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rajin-khan" /> </p>
 
-- 🔭 I’m currently working on **Mastering Front-End Development**
+- 🔭 I’m currently working on **Mastering Full-Stack Web Development**
 
 - 🌱 I’m currently learning **Web Development**
 
