@@ -35,11 +35,11 @@
 
 <div width="100%" align="center">
   
-  <a align="left">
+  <a align="center">
     <p><img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&show_icons=true&theme=omni" alt="rajin-khan" /></p>
   </a>
   
-  <a align="right">
+  <a align="center">
     <p><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-khan&theme=omni&locale=en" alt="rajin-khan"/></p>
   </a>
   
