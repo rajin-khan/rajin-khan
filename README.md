@@ -17,7 +17,7 @@
 
 <p align="center">
     &nbsp;
-    I am an aspiring Developer who thrives in solving complex problems and leveraging industry-standard computing algorithms and data structures, along with designing and implement beautiful UI/UX solutions.
+    I am an aspiring Developer who thrives in solving complex problems and leveraging industry-standard computing algorithms and data structures, along with designing and implementing beautiful UI/UX solutions.
 </p>
 <p align="center">
     Driven by a desire to make a tangible difference in the world of technology and science, I am dedicated to crafting innovative solutions for complex challenges.
@@ -32,19 +32,16 @@
     - 👨‍🎓 I'm a <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
 </p>
 <p align="center">
-    - 🔭 I’m currently working on <strong>Mastering Full-Stack Web Development</strong>, but I also teach students Computer Science, Physics and Math, under the Cambridge O-Levels curriculum.
+    - 🔭 I’m currently working on <strong>Mastering Full-Stack Web Development</strong>, but I also teach CS, Physics and Math (Cambridge O-Levels)
 </p>
 <p align="center">
     - 💬 Feel free to ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or Web-Development</strong>.
 </p>
 <p align="center">
-    - 🌱 I'm always learning something new. My current field of interest is Web Development, and you can view my progress <a href="https://github.com/rajin-khan/web-dev-self" target="_blank" rel="noreferrer">here.</a>
+    - 🌱 I'm always learning something new. <a href="https://github.com/rajin-khan/web-dev-self" target="_blank" rel="noreferrer">(Find out what it is!)</a>
 </p>
 <p align="center">
     - 📬 How to reach me: <a href="mailto:rajin.khan2001gmail.com" target="_blank" rel="noreferrer">rajin.khan2001@gmail.com</a>
-</p>
-<p align="center">
-    - ⚡ Fun fact: I also freelance as a <strong>Graphic Designer</strong>.
 </p>
 
 <h2 align="center"> 🛠️ My arsenal: </h2>
@@ -52,26 +49,26 @@
 <h3 align="center"> 👨‍💻 Languages: </h3>
 
 <p align="center">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="30"/>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30"/>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="30"/>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="35"/>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="35"/>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="35"/>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"/>
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/40pR413.png" alt=“SQL” height="30"/>
 </p>
 
 <h3 align="center"> 🗂 Databases: </h3>
 
 <p align="center">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt=“MySQL” height="30"/>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt=“MySQL” height="35"/>
 </p>
 
 <h3 align="center"> 💻 Tools and Software: </h3>
 
 <p align="center">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="30"/>
-    <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://zsh.sourceforge.io/Images/color_vertical_icon.png" alt="zsh" height="30"/>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" height="30"/>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="35"/>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="35"/>
+    <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://zsh.sourceforge.io/Images/color_vertical_icon.png" alt="zsh" height="35"/>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" height="35"/>
 </p>
 
 <h2 align="center"> STATS📈: </h2>
