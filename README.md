@@ -1,9 +1,9 @@
 ![Profile banner](https://i.imgur.com/7AwV84c.png)
 
 <h1 align="center">Hey there!✨</h1>
-<h2 align="center">I'm Rajin Khan, a scatterbrained CSE student from Bangladesh</h2>
 
 <p align="center">
+    &nbsp;
     <a href="https://www.facebook.com/rajinisdown/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajin's facebook" height="30" width="40" />
     &nbsp;
     <a href="https://www.instagram.com/raaajiin/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajin's instagram" height="30" width="40" />
@@ -11,9 +11,12 @@
     <a href="https://www.linkedin.com/in/rajin-khan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajin's linkedin" height="30" width="40" />
 </p>
 
-<h2 align="center"> Thrilled to see you here! </h2>
+<h2 align="center">
+    I'm Rajin Khan, a scatterbrained Developer from Bangladesh.
+</h2>
 
 <p align="center">
+    &nbsp;
     I am an aspiring Developer who thrives in solving complex problems and leveraging industry-standard computing algorithms and data structures, along with designing and implement beautiful UI/UX solutions.
 </p>
 <p align="center">
@@ -75,13 +78,15 @@
 
 <div width="100%" align="center">
     <p>
-      <a align="left">
-        <img width="38%" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&show_icons=true&theme=omni" alt="rajin-khan" />
-      </a>
-      &nbsp;
-      <a align="right">
+        <a align="center"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajin-khan&layout=donut-vertical&theme=omni&locale=en" alt="rajin-khan"/>
+        </a>
+        <p></p>
+        <a align="left">
         <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-khan&theme=omni&locale=en" alt="rajin-khan"/>
-      </a>
-      <a align="center"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajin-khan&layout=donut&theme=omni&locale=en" alt="rajin-khan"/></a>
+        </a>
+        &nbsp;
+        <a align="right">
+        <img width="38%" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&show_icons=true&theme=omni" alt="rajin-khan" />
+        </a>
     </p>
 </div>
