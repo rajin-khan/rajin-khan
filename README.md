@@ -38,7 +38,7 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" width="50" height="40"/>
 </p>
 
-<h3 align="center">The STATS:📈</h3>
+<h3 align="center">STATS📈:</h3>
 
 <div width="100%" align="center">
   
