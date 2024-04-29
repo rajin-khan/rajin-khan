@@ -1,61 +1,87 @@
 ![Profile banner](https://i.imgur.com/7AwV84c.png)
 
 <h1 align="center">Hey there!✨</h1>
-<h3 align="center">I'm Rajin Khan, a scatterbrained CSE student from Bangladesh</h3>
-<img align="right" alt="Coding" width="460" src=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dg8b54p-18e32f29-9558-4fb9-83af-de94e437053a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGc4YjU0cC0xOGUzMmYyOS05NTU4LTRmYjktODNhZi1kZTk0ZTQzNzA1M2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HXuzj0iAZKGgmBkfx_dU5uMbiia8p5hubL59hh7WhOc>
+<h2 align="center">I'm Rajin Khan, a scatterbrained CSE student from Bangladesh</h2>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rajin-khan&label=Profile%20views&color=0e75b6&style=flat" alt="rajin-khan" /> 
+<p align="center">
+    <a href="https://www.facebook.com/rajinisdown/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajin's facebook" height="30" width="40" />
+    &nbsp;
+    <a href="https://www.instagram.com/raaajiin/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajin's instagram" height="30" width="40" />
+    &nbsp;
+    <a href="https://www.linkedin.com/in/rajin-khan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajin's linkedin" height="30" width="40" />
 </p>
 
-<p align="left">
-  - 🔭 I’m currently working on **Mastering Full-Stack Web Development**
+<h2 align="center"> Thrilled to see you here! </h2>
 
-  - 🌱 I’m currently learning about **Design & Analysis of Algorithms**
-
-  - 💬 Ask me about **OOP, DSA, Graphic Designing and life as a student in NSU**
-
-  - 📫 How to reach me: **rajin.khan2001@gmail.com**
-
-  - ⚡ Fun fact: **I freelance as a graphic designer.**
+<p align="center">
+    I am an aspiring Developer who thrives in solving complex problems and leveraging industry-standard computing algorithms and data structures, along with designing and implement beautiful UI/UX solutions.
+</p>
+<p align="center">
+    Driven by a desire to make a tangible difference in the world of technology and science, I am dedicated to crafting innovative solutions for complex challenges.
+</p>
+<p align="center">
+    I have developed many projects, along with concept designs for my future ones. They are all here on my Github for you to check out, where I demonstrate my ability to translate theoretical knowledge into practical solutions.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"> A bit about me: </h3>
 
-<p align="center"> 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/40pR413.png" alt=“SQL” height="40"/>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="40" height="40"/>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt=“MySQL” height="40"/>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://zsh.sourceforge.io/Images/color_vertical_icon.png" alt="zsh" width="40" height="40"/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" width="50" height="40"/>
+<p align="center">
+    - 👨‍🎓 I'm a <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
+</p>
+<p align="center">
+    - 🔭 I’m currently working on <strong>Mastering Full-Stack Web Development</strong>, but I also teach students Computer Science, Physics and Math, under the Cambridge O-Levels curriculum.
+</p>
+<p align="center">
+    - 💬 Feel free to ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or Web-Development</strong>.
+</p>
+<p align="center">
+    - 🌱 I'm always learning something new. My current field of interest is Web Development, and you can view my progress <a href="https://github.com/rajin-khan/web-dev-self" target="_blank" rel="noreferrer">here.</a>
+</p>
+<p align="center">
+    - 📬 How to reach me: <a href="mailto:rajin.khan2001gmail.com" target="_blank" rel="noreferrer">rajin.khan2001@gmail.com</a>
+</p>
+<p align="center">
+    - ⚡ Fun fact: I also freelance as a <strong>Graphic Designer</strong>.
 </p>
 
-<h3 align="center">STATS📈:</h3>
+<h2 align="center"> 🛠️ My arsenal: </h2>
+
+<h3 align="center"> 👨‍💻 Languages: </h3>
+
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="30"/>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30"/>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="30"/>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="30"/>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/40pR413.png" alt=“SQL” height="30"/>
+</p>
+
+<h3 align="center"> 🗂 Databases: </h3>
+
+<p align="center">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt=“MySQL” height="30"/>
+</p>
+
+<h3 align="center"> 💻 Tools and Software: </h3>
+
+<p align="center">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="30"/>
+    <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://zsh.sourceforge.io/Images/color_vertical_icon.png" alt="zsh" height="30"/>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" height="30"/>
+</p>
+
+<h2 align="center"> STATS📈: </h2>
 
 <div width="100%" align="center">
-  
-  <a align="center">
-    <p><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajin-khan&layout=donut-vertical&theme=omni&locale=en" alt="rajin-khan"/></p>
-  </a>
-  
-</div>
-
-<div width="100%" align="center">
-  
-  <a align="center">
-    <p><img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&show_icons=true&theme=omni" alt="rajin-khan" /></p>
-  </a>
-  
-  <a align="center">
-    <p><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-khan&theme=omni&locale=en" alt="rajin-khan"/></p>
-  </a>
-  
+    <p>
+      <a align="left">
+        <img width="38%" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&show_icons=true&theme=omni" alt="rajin-khan" />
+      </a>
+      &nbsp;
+      <a align="right">
+        <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-khan&theme=omni&locale=en" alt="rajin-khan"/>
+      </a>
+      <a align="center"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajin-khan&layout=donut&theme=omni&locale=en" alt="rajin-khan"/></a>
+    </p>
 </div>
