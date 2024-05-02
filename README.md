@@ -17,13 +17,10 @@
 
 <p align="center">
     &nbsp;
-    I am an aspiring Developer who thrives in solving complex problems and leveraging industry-standard computing algorithms and data structures, along with designing and implementing beautiful UI/UX solutions.
+    Driven by a passion for crafting innovative solutions for complex challenges, I am a Developer adept at problem-solving and producing scalable projects, with additional experience in UI/UX design.
 </p>
 <p align="center">
-    Driven by a desire to make a tangible difference in the world of technology and science, I am dedicated to crafting innovative solutions for complex challenges.
-</p>
-<p align="center">
-    I have developed many projects, along with concept designs for my future ones. They are all here on my Github for you to check out, where I demonstrate my ability to translate theoretical knowledge into practical solutions.
+    All my projects here demonstrate my ability to translate theoretical knowledge into practical solutions.
 </p>
 
 <h3 align="center"> A bit about me: </h3>
@@ -44,7 +41,7 @@
     - 📬 How to reach me: <a href="mailto:rajin.khan2001gmail.com" target="_blank" rel="noreferrer">rajin.khan2001@gmail.com</a>
 </p>
 
-<h2 align="center"> 🛠️ My arsenal: </h2>
+<h2 align="center"> 🛠️ My favorite tools: </h2>
 
 <h3 align="center"> 👨‍💻 Languages: </h3>
 
