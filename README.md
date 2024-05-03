@@ -29,7 +29,7 @@
     - 👨‍🎓 I'm a <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
 </p>
 <p align="center">
-    - 🔭 I’m currently working on <strong>Mastering Full-Stack Web Development</strong>, but I also teach CS, Physics and Math (Cambridge O-Levels)
+    - 🔭 I’m currently working on <strong>Mastering Full-Stack Web Development</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
 </p>
 <p align="center">
     - 💬 Feel free to ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or Web-Development</strong>.
