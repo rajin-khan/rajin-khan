@@ -29,13 +29,13 @@
     - 👨‍🎓 I'm a <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
 </p>
 <p align="center">
-    - 🔭 I’m currently working on <strong>Leaning Python for ML</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
+    - 🔭 I’m currently working on <strong>Learning Front-End Web Development</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
 </p>
 <p align="center">
     - 💬 Feel free to ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or Web-Development</strong>.
 </p>
 <p align="center">
-    - 🌱 I'm always learning something new. <a href="https://github.com/rajin-khan/python-self" target="_blank" rel="noreferrer">(Find out what it is!)</a>
+    - 🌱 I'm always learning something new. <a href="https://github.com/rajin-khan/web-dev-self" target="_blank" rel="noreferrer">(Find out what it is!)</a>
 </p>
 <p align="center">
     - 📬 How to reach me: <a href="mailto:rajin.khan2001gmail.com" target="_blank" rel="noreferrer">rajin.khan2001@gmail.com</a>
