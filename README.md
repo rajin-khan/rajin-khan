@@ -1,6 +1,6 @@
 ![Profile banner](https://i.imgur.com/7AwV84c.png)
 
-<h1 align="center">Hey there!✨</h1>
+<h1 align="center">Hello there!✨</h1>
 
 <p align="center">
     &nbsp;
