@@ -35,7 +35,7 @@
     - 💬 Feel free to ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or Web-Development</strong>.
 </p>
 <p align="center">
-    - 🌱 I'm always learning something new. <a href="https://github.com/rajin-khan/capstone-sem-8" target="_blank" rel="noreferrer">(Find out what it is!)</a>
+    - 🌱 I'm always learning something new. <a href="https://github.com/rajin-khan/flutter-self" target="_blank" rel="noreferrer">(Find out what it is!)</a>
 </p>
 <p align="center">
     - 📬 How to reach me: <a href="mailto:rajin.khan2001gmail.com" target="_blank" rel="noreferrer">rajin.khan2001@gmail.com</a>
