@@ -54,17 +54,22 @@
     &nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"/></a>
     &nbsp;
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dart_programming_language_logo_icon.svg/2048px-Dart_programming_language_logo_icon.svg.png"         alt="dart" height="32"/></a>
+    &nbsp;
     <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" height="35"/></a>
     &nbsp;
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="HTML" height="35"/></a>
     &nbsp;
     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/40pR413.png" alt=“SQL” height="35"/></a>
+    &nbsp;
 </p>
 
-<h3 align="center"> 🗂 Databases: </h3>
+<h3 align="center"> 🗂 Databases & Frameworks 📱: </h3>
 
 <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt=“MySQL” height="35"/></a>
+    &nbsp;
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" alt="Flutter" height="32"/></a>
 </p>
 
 <h3 align="center"> 💻 Tools and Software: </h3>
