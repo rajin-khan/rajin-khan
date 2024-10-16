@@ -29,10 +29,10 @@
     - 👨‍🎓 I'm a <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
 </p>
 <p align="center">
-    - 🔭 I’m currently working on <strong>Learning Front-End Web Development</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
+    - 🔭 I’m currently working on <strong>Learning Cross Platform App Development with Flutter</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
 </p>
 <p align="center">
-    - 💬 Feel free to ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or Web-Development</strong>.
+    - 💬 Feel free to ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or App Development</strong>.
 </p>
 <p align="center">
     - 🌱 I'm always learning something new. <a href="https://github.com/rajin-khan/flutter-self" target="_blank" rel="noreferrer">(Find out what it is!)</a>
