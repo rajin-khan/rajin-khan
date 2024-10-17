@@ -26,19 +26,19 @@
 <h3 align="center"> A bit about me: </h3>
 
 <p align="center">
-    - 👨‍🎓 I'm a <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
+    - 👨‍🎓 <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
 </p>
 <p align="center">
-    - 🔭 I’m currently working on <strong>Learning Cross Platform App Development with Flutter</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
+    - 🧑🏻‍🍳 Currently working on <strong>Learning Cross Platform App Development with Flutter</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
 </p>
 <p align="center">
-    - 💬 Feel free to ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or App Development</strong>.
+    - 💬 Go ahead and ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or App Development</strong>.
 </p>
 <p align="center">
-    - 🌱 I'm always learning something new. <a href="https://github.com/rajin-khan/flutter-self" target="_blank" rel="noreferrer">(Find out what it is!)</a>
+    - 🌱 Oh, and I'm always learning something new. <a href="https://github.com/rajin-khan/flutter-self" target="_blank" rel="noreferrer">(Find out what it is!)</a>
 </p>
 <p align="center">
-    - 📬 How to reach me: <a href="mailto:rajin.khan2001gmail.com" target="_blank" rel="noreferrer">rajin.khan2001@gmail.com</a>
+    - 📬 Reach out to me at: <a href="mailto:rajin.khan2001gmail.com" target="_blank" rel="noreferrer">rajin.khan2001@gmail.com</a>
 </p>
 
 <h2 align="center"> 🛠️ My favorite tools: </h2>
