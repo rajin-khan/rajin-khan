@@ -4,11 +4,11 @@
 
 <p align="center">
     &nbsp;
-    <a href="https://www.facebook.com/rajinisdown/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajin's facebook" height="30" width="40" />
+    <a href="https://www.facebook.com/rajinisdown/" target="_blank"></a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajin's facebook" height="30" width="40"/>
     &nbsp;
-    <a href="https://www.instagram.com/raaajiin/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajin's instagram" height="30" width="40" />
+    <a href="https://www.instagram.com/raaajiin/" target="_blank"></a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajin's instagram" height="30" width="40"/>
     &nbsp;
-    <a href="https://www.linkedin.com/in/rajin-khan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajin's linkedin" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/rajin-khan/" target="_blank"></a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajin's linkedin" height="30" width="40"/>
 </p>
 
 <h2 align="center">
