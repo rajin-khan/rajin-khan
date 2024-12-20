@@ -29,13 +29,13 @@
     - 🧑🏻‍🎓 <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
 </p>
 <p align="center">
-    - 🌃 Currently working on <strong>Learning Cross Platform App Development with Flutter</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
+    - 🌃 Currently working on <strong>Understanding Supervised Machine Learning</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
 </p>
 <p align="center">
     - 💬 Go ahead and ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or App Development</strong>.
 </p>
 <p align="center">
-    - 🌱 Oh, and I'm always learning something new. <a href="https://github.com/rajin-khan/flutter-self" target="_blank" rel="noreferrer">(Find out what it is!)</a>
+    - 🌱 Oh, and I'm always learning something new. <a href="https://github.com/rajin-khan/self-machine-learning" target="_blank" rel="noreferrer">(Find out what it is!)</a>
 </p>
 <p align="center">
     - 📬 Reach out to me at: <a href="mailto:rajin.khan2001gmail.com" target="_blank" rel="noreferrer">rajin.khan2001@gmail.com</a>
