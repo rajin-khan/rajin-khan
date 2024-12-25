@@ -64,7 +64,7 @@
     &nbsp;
 </p>
 
-<h3 align="center"> 🗂 Databases & Frameworks 📱: </h3>
+<h3 align="center"> 🗂 Databases, Frameworks, & Libraries 📱: </h3>
 
 <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt=“MySQL” height="35"/></a>
