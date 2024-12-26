@@ -69,6 +69,9 @@
 <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt=“MySQL” height="35"/></a>
     &nbsp;
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/b1/e8/44/b1e8445e6096877bf32af7cae6aba731.png" alt="NumPy" height="35"/></a>
+    &nbsp;
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="36"/></a>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" alt="Flutter" height="32"/></a>
 </p>
 
