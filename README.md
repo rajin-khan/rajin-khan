@@ -82,6 +82,8 @@
     &nbsp;
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" height="35"/></a>
     &nbsp;
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter notebooks" height="35"/></a>
+    &nbsp;
     <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Zsh-art/logo/main/png/white_vertical_icon.png" alt="zsh" height="32"/></a>
     &nbsp;
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" height="34"/></a>
