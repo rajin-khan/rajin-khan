@@ -1,6 +1,10 @@
 ![Profile banner](profilebanner-rajinkhan.png)
 
-<h1 align="center">Hello there!✨</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7BC80&center=true&vCenter=true&width=435&lines=%3C+hi%2C+i'm+rajin+khan+%3E)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
     &nbsp;
@@ -12,7 +16,7 @@
 </p>
 
 <h2 align="center">
-    I'm Rajin Khan, a scatterbrained Developer from Bangladesh.
+    a scatterbrained developer from Bangladesh.
 </h2>
 
 <p align="center">
