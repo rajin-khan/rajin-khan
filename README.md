@@ -1,4 +1,4 @@
-![Profile banner](https://i.imgur.com/7AwV84c.png)
+![Profile banner](profilebanner-rajinkhan.png)
 
 <h1 align="center">Hello there!✨</h1>
 
