@@ -36,7 +36,7 @@
     - 🌃 Currently working on <strong>Understanding Supervised Machine Learning</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
 </p>
 <p align="center">
-    - 💬 Go ahead and ask me anything about <strong>Object Oriented Programming, Data-Structures and Algorithms, or App Development</strong>.
+    - 💬 Go ahead and ask me anything about <strong>Machine Learning, Object Oriented Programming, or App Development</strong>.
 </p>
 <p align="center">
     - 🌱 Oh, and I'm always learning something new. <a href="https://github.com/rajin-khan/self-machine-learning" target="_blank" rel="noreferrer">(Find out what it is!)</a>
