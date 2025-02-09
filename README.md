@@ -27,6 +27,10 @@
     All my projects here demonstrate my ability to translate theoretical knowledge into practical solutions.
 </p>
 
+<p align="center">
+    - 🧑🏻‍💻 Check out my <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">portfolio website!</a>
+</p>
+
 <h3 align="center"> A bit about me: </h3>
 
 <p align="center">
