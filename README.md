@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-    - 🧑🏻‍💻 Check out my <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">portfolio website!</a>
+    - 🧑🏻‍💻 Check out my <a href="https://rajinkhan.vercel.app/" target="_blank" rel="noreferrer">portfolio website!</a>
 </p>
 
 <h3 align="center"> A bit about me: </h3>
