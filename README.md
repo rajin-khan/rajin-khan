@@ -1,4 +1,4 @@
-![Profile banner](profilebanner-rajinkhan.png)
+![Profile banner](rajinbanner.png)
 
 <div align="center">
 
