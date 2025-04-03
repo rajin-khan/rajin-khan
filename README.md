@@ -43,7 +43,7 @@
     - 💬 Go ahead and ask me anything about <strong>Machine Learning, Object Oriented Programming, or App Development</strong>.
 </p>
 <p align="center">
-    - 🌱 Oh, and I'm always learning something new. <a href="https://github.com/rajin-khan/FSL" target="_blank" rel="noreferrer">(Find out what it is!)</a>
+    - 🌱 Oh, and I'm always learning something new. <a href="https://github.com/rajin-khan/Tessro" target="_blank" rel="noreferrer">(Find out what it is!)</a>
 </p>
 <p align="center">
     - 📬 Reach out to me at: <a href="mailto:rajin.khan2001gmail.com" target="_blank" rel="noreferrer">rajin.khan2001@gmail.com</a>
