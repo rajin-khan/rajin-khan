@@ -122,6 +122,6 @@
 
 <div width="100%" align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=rajin-khan&theme=omni&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=rajin-khan&theme=dracula&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
 
 </div>
