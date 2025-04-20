@@ -117,3 +117,11 @@
 </div>
     
 ![Rajin Khan's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajin-khan&bg_color=0d0814&color=E1E1E6&line=FF79C6&point=FF79C6&area=true&hide_border=true&title_color=E1E1E6)
+
+<h2 align="center">✨ Trophies 🏆</h2>
+
+<div width="100%" align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=rajin-khan&theme=omni&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
+
+</div>
