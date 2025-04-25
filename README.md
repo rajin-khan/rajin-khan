@@ -51,7 +51,9 @@
 
 <h2 align="center"> 🛠️ My favorite tools: </h2>
 
-<h3 align="center"> 👨‍💻 Languages: </h3>
+---
+
+<h5 align="center"> Languages: </h5>
 
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="35"/></a>
@@ -68,24 +70,43 @@
     &nbsp;
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="HTML" height="35"/></a>
     &nbsp;
-    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/40pR413.png" alt=“SQL” height="35"/></a>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/40pR413.png" alt="SQL" height="35"/></a>
     &nbsp;
 </p>
 
-<h3 align="center"> 🗂 Databases, Frameworks, & Libraries 📱: </h3>
+---
+
+<h5 align="center"> Databases, Frameworks, & Libraries: </h5>
 
 <p align="center">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt=“MySQL” height="35"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="30"/></a>
     &nbsp;
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/b1/e8/44/b1e8445e6096877bf32af7cae6aba731.png" alt="NumPy" height="35"/></a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/b1/e8/44/b1e8445e6096877bf32af7cae6aba731.png" alt="NumPy" height="33"/></a>
     &nbsp;
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="36"/></a>
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="MatPlotLib" height="30"/></a>
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png" alt="Flutter" height="30"/></a>
-    <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/astro-logo-light-gradient.svg" alt="Astro" height="30"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="Pandas" height="36"/></a>
+    &nbsp;
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height="30"/></a>
+    &nbsp;
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14101776?s=280&v=4" alt="Flutter" height="30"/></a>
+    &nbsp;
+    <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro" height="30"/></a>
+    &nbsp;
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="32"/></a>
+    &nbsp;
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="Next.js" height="32"/></a>
+    &nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="32"/></a>
+    &nbsp;
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" height="32"/></a>
+    &nbsp;
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/763672847/372af879-faec-44b6-bc50-6f6b770c12f5" alt="FastAPI" height="32"/></a>
+    &nbsp;
+    <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/48/2/chroma-logo-png_seeklogo-482133.png" alt="ChromaDB" height="32"/></a>
 </p>
 
-<h3 align="center"> 💻 Tools and Software: </h3>
+---
+
+<h5 align="center"> Tools and Software: </h5>
 
 <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="34"/></a>
@@ -97,7 +118,17 @@
     <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Zsh-art/logo/main/png/white_vertical_icon.png" alt="zsh" height="32"/></a>
     &nbsp;
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" height="34"/></a>
+    &nbsp;
+    <a href="https://groq.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1673913216963-63115d7864939fabc00f0b45.png" alt="Groq" height="32"/></a>
+    &nbsp;
+    <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/collabnix.com/wp-content/uploads/2024/03/qbosw7lyg8enfdqqi8ox.png?fit=512,512&ssl=1" alt="Ollama" height="32"/></a>
+    &nbsp;
+    <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src="https://railway.com/brand/logo-light.png" alt="Railway" height="32"/></a>
+    &nbsp;
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" alt="Vercel" height="32"/></a>
 </p>
+
+---
 
 <h2 align="center"> STATS📈: </h2>
 
