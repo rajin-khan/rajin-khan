@@ -51,8 +51,6 @@
 
 <h2 align="center"> 🛠️ My favorite tools: </h2>
 
----
-
 <h5 align="center"> Languages: </h5>
 
 <p align="center">
@@ -127,8 +125,6 @@
     &nbsp;
     <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" alt="Vercel" height="32"/></a>
 </p>
-
----
 
 <h2 align="center"> STATS📈: </h2>
 
