@@ -101,7 +101,7 @@
     &nbsp;
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/763672847/372af879-faec-44b6-bc50-6f6b770c12f5" alt="FastAPI" height="32"/></a>
     &nbsp;
-    <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/48/2/chroma-logo-png_seeklogo-482133.png" alt="ChromaDB" height="32"/></a>
+    <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/chroma.png" alt="ChromaDB" height="32"/></a>
 </p>
 
 ---
