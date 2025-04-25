@@ -113,13 +113,13 @@
     &nbsp;
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter notebooks" height="35"/></a>
     &nbsp;
-    <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Zsh-art/logo/main/png/white_vertical_icon.png" alt="zsh" height="32"/></a>
-    &nbsp;
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" height="34"/></a>
-    &nbsp;
     <a href="https://groq.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1673913216963-63115d7864939fabc00f0b45.png" alt="Groq" height="32"/></a>
     &nbsp;
     <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/collabnix.com/wp-content/uploads/2024/03/qbosw7lyg8enfdqqi8ox.png?fit=512,512&ssl=1" alt="Ollama" height="32"/></a>
+    &nbsp;
+    <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Zsh-art/logo/main/png/white_vertical_icon.png" alt="zsh" height="32"/></a>
+    &nbsp;
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" height="34"/></a>
     &nbsp;
     <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src="https://railway.com/brand/logo-light.png" alt="Railway" height="32"/></a>
     &nbsp;
