@@ -21,7 +21,7 @@
 
 <p align="center">
     &nbsp;
-    Driven by a passion for crafting innovative solutions for complex challenges, I am a Developer adept at problem-solving and producing scalable projects, with additional experience in UI/UX design.
+    Driven by a passion for crafting innovative solutions for complex challenges, I am a Developer adept at problem-solving and producing scalable projects, with additional experience in UI/UX design, Deployment, and CI/CD.
 </p>
 <p align="center">
     All my projects here demonstrate my ability to translate theoretical knowledge into practical solutions.
@@ -37,10 +37,10 @@
     - 🧑🏻‍🎓 <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
 </p>
 <p align="center">
-    - 🌃 Currently working on <strong>Understanding Supervised Machine Learning</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
+    - 🌃 Currently working on <strong>Understanding Deep Learning</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
 </p>
 <p align="center">
-    - 💬 Go ahead and ask me anything about <strong>Machine Learning, Object Oriented Programming, or App Development</strong>.
+    - 💬 Go ahead and ask me anything about <strong>Machine Learning, Generative AI, or Web Development</strong>.
 </p>
 <p align="center">
     - 🌱 Oh, and I'm always learning something new. <a href="https://github.com/rajin-khan/Tessro" target="_blank" rel="noreferrer">(Find out what it is!)</a>
