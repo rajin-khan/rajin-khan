@@ -1,4 +1,4 @@
-![Profile banner](rajins-banner.png)
+![Profile banner](rajins-rm-banner.png)
 
 <div align="center">
 
