@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-    - 🧑🏻‍💻 Check out my <a href="https://rajinkhan.com/" target="_blank" rel="noreferrer">portfolio website!</a>
+    - 🧑🏻‍💻 Check out my <a href="https://rajinkhan.com/" target="_blank" rel="noreferrer">Portfolio Website!</a>
 </p>
 
 <h3 align="center"> A bit about me: </h3>
