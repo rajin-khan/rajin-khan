@@ -135,21 +135,22 @@
 <h2 align="center"> STATS📈: </h2>
 
 <div width="100%" align="center">
-    <p>
-        <a align="center"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajin-khan&layout=donut-vertical&theme=omni&locale=en" alt="rajin-khan"/>
-        </a>
-        <p></p>
-        <a align="left">
-        <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-khan&theme=omni&locale=en" alt="rajin-khan"/>
-        </a>
-        &nbsp;
-        <a align="right">
-        <img width="38%" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&show_icons=true&theme=omni" alt="rajin-khan" />
-        </a>
-    </p>
+  <p>
+    <a align="center">
+      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajin-khan&layout=donut-vertical&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&locale=en" alt="rajin-khan"/>
+    </a>
+    <p></p>
+    <a align="left">
+      <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-khan&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&locale=en" alt="rajin-khan"/>
+    </a>
+    &nbsp;
+    <a align="right">
+      <img width="38%" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&rank_icon=github" alt="rajin-khan" />
+    </a>
+  </p>
 </div>
     
-![Rajin Khan's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajin-khan&bg_color=0d0814&color=E1E1E6&line=FF79C6&point=FF79C6&area=true&hide_border=true&title_color=E1E1E6)
+![Rajin Khan's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajin-khan&bg_color=000000&color=FFFFFF&line=808080&point=C0C0C0&area=true&hide_border=true&title_color=FFFFFF&area_color=1a1a1a)
 
 <!-- h2 align="center">✨ Trophies 🏆</h2>
 
