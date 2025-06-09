@@ -22,15 +22,15 @@
 </p>
 
 <h2 align="center">
-    a scatterbrained developer from Bangladesh.
+    A scatterbrained developer from Bangladesh.
 </h2>
 
 <p align="center">
     &nbsp;
-    Driven by a passion for crafting innovative solutions for complex challenges, I am a Developer adept at problem-solving and producing scalable projects, with additional experience in UI/UX design, Deployment, and CI/CD.
+    Adept at problem-solving and producing scalable projects, with additional experience in UI/UX design, Deployment, and CI/CD.
 </p>
 <p align="center">
-    All my projects here demonstrate my ability to translate theoretical knowledge into practical solutions.
+    I translate theoretical knowledge into practical solutions, incorporating AI and cutting-edge technology.
 </p>
 
 <p align="center">
