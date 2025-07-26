@@ -40,7 +40,7 @@
 <h3 align="center"> A bit about me: </h3>
 
 <p align="center">
-    - 🧑🏻‍🎓 <strong>B.Sc. CSE (Honors)</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
+    - 🧑🏻‍🎓 <strong>B.Sc. CSE</strong> Student at <a href="https://www.northsouth.edu" target="_blank" rel="noreferrer">North South University</a>
 </p>
 <p align="center">
     - 🌃 Currently working on <strong>Understanding Deep Learning</strong>, but I also teach CS, Physics and Math (Cambridge OLs).
