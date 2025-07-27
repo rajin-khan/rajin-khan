@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%3C+hi%2C+i'm+rajin+khan+%3E)](https://git.io/typing-svg)
+![hey, i'm rajin](https://capsule-render.vercel.app/api?type=venom&height=180&color=0:333333,100:000000&text=hi,%20i'm%20rajin.&fontSize=40&fontColor=FFFFFF)
 
 </div>
 
