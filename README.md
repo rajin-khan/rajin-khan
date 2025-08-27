@@ -1,4 +1,4 @@
-![Profile banner](rajins-rm-banner.png)
+![Profile banner](rajins-banner-new.png)
 
 <div align="center">
 
@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/raaajiin/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajin's instagram" height="30" width="40"/>
     </a>
-    &nbsp;
+    &nbsp;b
     <a href="https://www.linkedin.com/in/rajin-khan/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajin's linkedin" height="30" width="40"/>
     </a>
