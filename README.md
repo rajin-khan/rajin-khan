@@ -101,7 +101,7 @@
     &nbsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="32"/></a>
     &nbsp;
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" height="32"/></a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" alt="Vite" height="32"/></a>
     &nbsp;
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/763672847/372af879-faec-44b6-bc50-6f6b770c12f5" alt="FastAPI" height="32"/></a>
     &nbsp;
