@@ -57,79 +57,69 @@
 
 <h2 align="center"> 🛠️ My favorite tools: </h2>
 
+<h5 align="center"> Platforms, Payments, & Deployment: </h5>
+
+<p align="center">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    <a href="https://railway.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/></a>
+    <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+    <a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/></a>
+    <a href="https://www.lemonsqueezy.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Lemon%20Squeezy-FFC233?style=for-the-badge&logo=lemonsqueezy&logoColor=111111" alt="Lemon Squeezy"/></a>
+    <a href="https://www.paddle.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Paddle-3D6FEA?style=for-the-badge&logo=paddle&logoColor=white" alt="Paddle"/></a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/></a>
+    <a href="https://mintlify.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Mintlify-18E299?style=for-the-badge&logo=mintlify&logoColor=111111" alt="Mintlify"/></a>
+</p>
+
+---
+
+<h5 align="center"> Web, App, & Backend: </h5>
+
+<p align="center">
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+    <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
+    <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/></a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" alt="React"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/></a>
+    <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111111" alt="Supabase"/></a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/></a>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+</p>
+
+---
+
+<h5 align="center"> AI, Data, & ML: </h5>
+
+<p align="center">
+    <a href="https://groq.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/></a>
+    <a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+    <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChromaDB-FFDE2E?style=for-the-badge&logo=chroma&logoColor=111111" alt="ChromaDB"/></a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/></a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/></a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+    <a href="https://www.ultralytics.com/yolo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO"/></a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
+</p>
+
+---
+
 <h5 align="center"> Languages: </h5>
 
 <p align="center">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="35"/></a>
-    &nbsp;
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="35"/></a>
-    &nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="35"/></a>
-    &nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="35"/></a>
-    &nbsp;
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dart_programming_language_logo_icon.svg/2048px-Dart_programming_language_logo_icon.svg.png"         alt="dart" height="32"/></a>
-    &nbsp;
-    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" height="35"/></a>
-    &nbsp;
-    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="HTML" height="35"/></a>
-    &nbsp;
-    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/40pR413.png" alt="SQL" height="35"/></a>
-    &nbsp;
-</p>
-
----
-
-<h5 align="center"> Databases, Frameworks, & Libraries: </h5>
-
-<p align="center">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="30"/></a>
-    &nbsp;
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/b1/e8/44/b1e8445e6096877bf32af7cae6aba731.png" alt="NumPy" height="33"/></a>
-    &nbsp;
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="Pandas" height="36"/></a>
-    &nbsp;
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" height="30"/></a>
-    &nbsp;
-    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14101776?s=280&v=4" alt="Flutter" height="30"/></a>
-    &nbsp;
-    <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="Astro" height="30"/></a>
-    &nbsp;
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="32"/></a>
-    &nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent-systems-filled/512/FFFFFF/nextjs.png" alt="Next.js" height="32"/></a>
-    &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="32"/></a>
-    &nbsp;
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" alt="Vite" height="32"/></a>
-    &nbsp;
-    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/763672847/372af879-faec-44b6-bc50-6f6b770c12f5" alt="FastAPI" height="32"/></a>
-    &nbsp;
-    <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/chroma.png" alt="ChromaDB" height="32"/></a>
-</p>
-
----
-
-<h5 align="center"> Tools and Software: </h5>
-
-<p align="center">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="34"/></a>
-    &nbsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="bash" height="35"/></a>
-    &nbsp;
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter notebooks" height="35"/></a>
-    &nbsp;
-    <a href="https://groq.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1673913216963-63115d7864939fabc00f0b45.png" alt="Groq" height="32"/></a>
-    &nbsp;
-    <a href="https://ollama.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/collabnix.com/wp-content/uploads/2024/03/qbosw7lyg8enfdqqi8ox.png?fit=512,512&ssl=1" alt="Ollama" height="32"/></a>
-    &nbsp;
-    <a href="https://www.zsh.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Zsh-art/logo/main/png/white_vertical_icon.png" alt="zsh" height="32"/></a>
-    &nbsp;
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" height="34"/></a>
-    &nbsp;
-    <a href="https://railway.app/" target="_blank" rel="noreferrer"> <img src="https://railway.com/brand/logo-light.png" alt="Railway" height="32"/></a>
-    &nbsp;
-    <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/152x152.png" alt="Vercel" height="32"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C"/></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-00ADEF?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/></a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
+    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
+    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/></a>
 </p>
 
 <h2 align="center"> STATS📈: </h2>
