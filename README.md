@@ -165,8 +165,8 @@
       <img width="48%" src="https://streak-stats.demolab.com/?user=rajin-khan&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&locale=en" alt="Rajin Khan's GitHub streak"/>
     </a>
     &nbsp;
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" rel="noreferrer">
-      <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajin-khan&theme=github_dark" alt="Rajin Khan's most used languages"/>
+    <a href="https://github.com/rowkav09/GitHub-profile-stats" target="_blank" rel="noreferrer">
+      <img width="48%" src="https://ghstats.dev/api/langs?username=rajin-khan&layout=bar&max_langs=6&bg=000000&text=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&border_radius=4.5&custom_title=Languages" alt="Rajin Khan's most used languages"/>
     </a>
   </p>
 </div>
