@@ -161,12 +161,12 @@
 
 <div width="100%" align="center">
   <p>
-    <a href="https://git.io/streak-stats" target="_blank" rel="noreferrer">
-      <img width="48%" src="https://streak-stats.demolab.com/?user=rajin-khan&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&locale=en" alt="Rajin Khan's GitHub streak"/>
-    </a>
-    &nbsp;
     <a href="https://github.com/rowkav09/GitHub-profile-stats" target="_blank" rel="noreferrer">
-      <img width="48%" src="https://ghstats.dev/api/langs?username=rajin-khan&layout=bar&max_langs=6&bg=000000&text=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&border_radius=4.5&custom_title=Languages" alt="Rajin Khan's most used languages"/>
+      <img width="60%" src="https://ghstats.dev/api/langs?username=rajin-khan&layout=bar&max_langs=6&bg=000000&text=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&border_radius=4.5&custom_title=Languages" alt="Rajin Khan's most used languages"/>
+    </a>
+    <p></p>
+    <a href="https://git.io/streak-stats" target="_blank" rel="noreferrer">
+      <img width="60%" src="https://streak-stats.demolab.com/?user=rajin-khan&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&locale=en" alt="Rajin Khan's GitHub streak"/>
     </a>
   </p>
 </div>
