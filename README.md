@@ -161,16 +161,12 @@
 
 <div width="100%" align="center">
   <p>
-    <a align="center">
-      <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajin-khan&layout=donut-vertical&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&locale=en" alt="rajin-khan"/>
-    </a>
-    <p></p>
-    <a align="left">
-      <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajin-khan&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&locale=en" alt="rajin-khan"/>
+    <a href="https://git.io/streak-stats" target="_blank" rel="noreferrer">
+      <img width="48%" src="https://streak-stats.demolab.com/?user=rajin-khan&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&locale=en" alt="Rajin Khan's GitHub streak"/>
     </a>
     &nbsp;
-    <a align="right">
-      <img width="38%" src="https://github-readme-stats.vercel.app/api?username=rajin-khan&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&rank_icon=github" alt="rajin-khan" />
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" rel="noreferrer">
+      <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajin-khan&theme=github_dark" alt="Rajin Khan's most used languages"/>
     </a>
   </p>
 </div>
